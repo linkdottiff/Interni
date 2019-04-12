@@ -1,0 +1,182 @@
+@media (max-width: 1210px) and (min-width: 992px){
+    .popup .popuptext{
+        font-size: 0.45rem;
+    }
+
+    #manual {
+        height: 400px;
+        width: 665px;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 750px){
+
+
+    .brand-img{
+        margin-left: 0px;
+    }
+
+    .nav-item{
+        text-align: left !important;
+    }
+
+    .image-wrapper{
+        margin-top: 150px;
+    }
+
+    .popup .popuptext{
+        font-size: 0.7rem;
+        width: 70%;
+        margin-left: -20%;
+        padding: 14px;
+    }
+
+    #manual {
+        height: 400px;
+        width: 665px;
+    }
+}
+
+@media (max-width:749px) and (min-width: 650px){
+
+
+    .cocreaccion{
+        margin-left: 0px ;
+    }
+
+    .navbar-brand{
+        margin-left: 0px !important;
+    }
+
+    .nav-item{
+        text-align: left !important;
+    }
+
+    .image-wrapper{
+        margin-top: 150px;
+    }
+
+    .popup .popuptext{
+        font-size: 0.7rem;
+        width: 70%;
+        margin-left: -20%;
+        padding: 14px;
+    }
+
+    #manual {
+        height: 400px;
+        width: 665px;
+    }
+}
+
+
+@media (max-width: 649px) and (min-width: 351px){
+
+    .cocreaccion{
+        width: 70px;
+        margin-left: 0px ;
+    }
+
+    .navbar-brand{
+        margin-left: 0px !important;
+    }
+
+    .navbar-brand{
+       font-size: 1rem;
+    }
+
+    .interni{
+        width: 40px;
+    }
+
+    .nav-item{
+        text-align: left !important;
+    }
+
+    .image-wrapper{
+        margin-top: 250px;
+    }
+
+    .normal-image,
+    .image-ani{
+        width: 90%;
+    }
+
+    .image-ani{
+        top: 0;
+        left: 5%;
+    }
+
+    .popup .popuptext{
+        font-size: 0.6rem;
+        width: 70%;
+        margin-left: -20%;
+        padding: 14px;
+        bottom: 60%;
+    }
+
+    #manual {
+        height: 200px;
+        width: 332px;
+    }
+
+    .img-tbt{
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 350px) and (min-width: 100px){
+
+    .cocreaccion{
+        width: 70px;
+        margin-left: 0px ;
+    }
+
+    .navbar-brand{
+        margin-left: 0px !important;
+    }
+
+    .navbar-brand{
+       font-size: 1rem;
+    }
+
+    .interni{
+        width: 40px;
+    }
+
+    .nav-item{
+        text-align: left !important;
+    }
+
+    .image-wrapper{
+        margin-top: 250px;
+    }
+
+    .normal-image,
+    .image-ani{
+        width: 90%;
+    }
+
+    .image-ani{
+        top: 0;
+        left: 5%;
+    }
+
+    .popup .popuptext{
+        font-size: 0.4rem;
+        width: 70%;
+        margin-left: -20%;
+        padding: 14px;
+        bottom: 60%;
+    }
+
+    #manual {
+        height: 200px;
+        width: 332px;
+    }
+
+    .img-tbt{
+        width: 70%;
+    }
+}
