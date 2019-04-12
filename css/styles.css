@@ -21,7 +21,7 @@ h3 {
     font-weight: 900;
 }
 
-.container-fluid{
+.container-fluid {
     padding: 0;
 }
 
@@ -75,7 +75,7 @@ h3 {
     width: 60px;
 }
 
-.cocreaccion{
+.cocreaccion {
     width: 90px;
     margin-left: 20px;
 }
@@ -191,8 +191,8 @@ h3 {
 
 #personajes h3 {
     color: #fff;
-  }
-  
+}
+
 #personajes {
     margin-top: 100px;
     background-color: #2e58a6;
@@ -362,6 +362,8 @@ h3 {
     width: 40%;
 }
 
+/*#### FLIP EFFECT FOR LITTLE CARDS ####*/
+
 .scene {
     width: 200px;
     height: 260px;
@@ -410,14 +412,31 @@ h3 {
     transform: rotateY(180deg);
 }
 
+/*#### FLIP EFFECT FOR INSTRUCTION CARDS ####*/
+
+.sceneIt {
+    width: 315px;
+    height: 420px;
+    margin: 40px 0;
+    perspective: 600px;
+    margin: 0 auto;
+}
+
+.cardIt {
+    width: 315px !important;
+    height: 420px;
+    border-radius: 3px;
+}
+
+
 /*############### FOOTER ################*/
 
-footer{
+footer {
     margin-top: 100px;
     background-color: #2e58a6;
     padding: 1%;
 }
 
-footer p{
+footer p {
     color: #fff;
 }
