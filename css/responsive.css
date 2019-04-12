@@ -81,8 +81,8 @@
         margin-left: 0px !important;
     }
 
-    .navbar-brand{
-       font-size: 1rem;
+    .span-li{
+        display: none;
     }
 
     .interni{
